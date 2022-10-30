@@ -1,0 +1,7 @@
+<resources>
+    <string name="stock">In store</string>
+    <string name="color">Color : pink</string>
+    <string name="price">17.75$</string>
+    <string name="button">ADD TO CART</string>
+    <string name="item">Item:pink blouse</string>
+</resources>
